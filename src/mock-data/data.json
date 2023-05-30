@@ -1,0 +1,31 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "first_name": "John",
+            "last_name": "Smith",
+            "age": 34,
+            "gender": "Male",
+            "department": "Sales",
+            "salary": "45000"
+        },
+        {
+            "id": "2",
+            "first_name": "Janet",
+            "last_name": "Wilson",
+            "age": 36,
+            "gender": "Female",
+            "department": "Sales",
+            "salary": "45000"
+        },
+        {
+            "id": "3",
+            "first_name": "Mitch",
+            "last_name": "Wilson",
+            "age": 56,
+            "gender": "Male",
+            "department": "Marketing",
+            "salary": "55000"
+        }
+    ]
+}
