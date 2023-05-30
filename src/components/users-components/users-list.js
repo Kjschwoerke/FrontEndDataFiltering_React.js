@@ -1,9 +1,9 @@
 import React from 'react'
 import UserListItem from './user-list-item'
 
-const UsersList = ({ users }) => {
+const UsersList = ({ filteredUsers }) => {
     return <ul>
-        {users?.map(user => {
+        {filteredUsers?.map(user => {
             return <UserListItem user={user} />
         })}
     </ul>
